@@ -1,0 +1,2 @@
+C:\Users\edkru\OneDrive\Документы\Projects\Simle-C\Project1\Debug\Project1.exe
+C:\Users\edkru\OneDrive\Документы\Projects\Simle-C\Project1\Debug\Project1.pdb
